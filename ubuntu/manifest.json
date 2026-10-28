@@ -1,0 +1,8 @@
+{
+  "platform": "ubuntu",
+  "hub": {
+    "en": "https://vrealmatic.com/ubuntu",
+    "cs": "https://vrealmatic.com/ubuntu-navody"
+  },
+  "tools": []
+}
